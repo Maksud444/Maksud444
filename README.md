@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/maksudbillah" target="blank"><img src="https://img.shields.io/twitter/follow/maksudbillah?logo=twitter&style=for-the-badge" alt="maksudbillah" /></a> </p>
 
-- 🔭 I’m currently working on [Buy/Sell used car](https://buy-sell-usedcar-4bd1f.web.app)
+- 🔭 My Portfolio Website [Buy/Sell used car](https://jovial-chebakia-15259c.netlify.app/)
 
 - 🌱 I’m currently learning **React native**
 
